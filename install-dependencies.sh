@@ -1,6 +1,10 @@
 #!/bin/bash
-
-
+echo Installing dialog package if not exits...
+sudo apt install dialog -y
+sudo pacman -S dialog
+sudo dnf install dialog
+sudo zypper install dialog
+clear
 
 HEIGHT=15
 WIDTH=40
