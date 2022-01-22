@@ -15,6 +15,10 @@ Finally you can open app with `bash run.sh` command.
 - [ ] Adjusting clock speeds (I've already done this but need to improve as it's useless)
 - [ ] Close "screen" automatically
 - [ ] Web UI
+- [ ] FPS monitor for games
+- [ ] Fan speed changer
+- [ ] Widgets for desktop
+- [ ] And more....
 
 # Bugs:
 You can't exit NVBurner with buttons when logging info (Use CTRL+C instead)
