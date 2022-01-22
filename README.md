@@ -1,5 +1,5 @@
 ## NVBurner
-A MSI Afterburner alternative for NVIDIA users in Linux.
+Overclocking utilities for Nvidia cards on Linux
 
 # YOU MUST INSTALL LATEST NVIDIA DRIVERS TO USE!
 If you do not install the latest NVIDIA drivers, you will not be able to use the application.
