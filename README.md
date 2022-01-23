@@ -28,6 +28,9 @@ There are no any alert if you set voltage 40000W etc. so don't try
 If you close it with the X button the dialog is double so always exit with the Cancel button. I'm working on it, will be fixed soon.
 
 
-## Screenshot
+## Screenshots
 
-![](https://raw.githubusercontent.com/iloveichigo/NVBurner/main/sc1.png)
+![](https://www.technopat.net/sosyal/eklenti/1642856465943-png.1278104/)
+![](https://www.technopat.net/sosyal/eklenti/1642856557608-png.1278106/)
+![](https://www.technopat.net/sosyal/eklenti/1642856603861-png.1278108/)
+![](https://www.technopat.net/sosyal/eklenti/1642856710176-png.1278111/)
